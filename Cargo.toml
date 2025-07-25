@@ -7,6 +7,6 @@ members = [
     "en/rs/06-gossipsub-checkpoint/checker",
     "en/rs/07-kademlia-checkpoint/checker",
     "en/rs/08-final-checkpoint/checker",
-    "xtask",
+    "xtask", "zanzalu",
 ]
 resolver = "2"
